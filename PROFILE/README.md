@@ -1,6 +1,13 @@
-Hello Github , ini adalah repositori pertama saya
-ini fitur 1
-ini fitur 2
-Ini di tambahkan dari github
-ini fitur 3
-Pertama kalinya saya belajar membuat github saya sendiri
+# 👋 Halo, saya [Aruu]!
+
+Saya adalah mahasiswa [Teknik informatika] di [Polinema]
+
+## 💻 Teknologi & Tools yang Dikuasai
+- Tools: [VS Code, Figma, AM]
+
+## 🎯 Tujuan & Harapan
+Saat ini saya sedang fokus untuk:
+- Meningkatkan skill [misalnya: Web Development, UI/UX Design]
+
+## 📫 Kontak
+- Instagram: [var_mv]
