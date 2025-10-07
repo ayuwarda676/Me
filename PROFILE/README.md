@@ -19,3 +19,4 @@ Saat ini saya sedang fokus untuk:
 1. Loves playing indie game
 2. Loves cat
 3. Curious man 
+4. Anime lovers
